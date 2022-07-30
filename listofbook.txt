@@ -1,0 +1,10 @@
+Harry Potter,JK Rowling,30,$2
+Staet withh why,Simon Sinek,10,$1.5
+Rich Dad Poor Dad,Robert Kiyosoki,5,$2.5
+The Load of Rings,J. R. R. Tolkien,10,$1.5
+Vampire Diaries,L. J. Smith,4,$4.0
+Game of Thrones,Geoorge R. R. Martiin,2,$5.0
+Treasure Island, Robert Louis,3,$5.0
+Pride and Prejudice,Jane Austen,4,$3.5
+Intro of Alogorithms,Thamas H. Corman,6,$4.0
+C Programming,Dennis Ritchie,12,$7.5

@@ -1,0 +1,8 @@
+Date: 2021-09-10    Time:09:28:40.203154
+
+                Library Management System 
+                   Returned By: Nabin
+                Bill of Book              
+
+ S.N.		Bookname		Cost
+1		Harry Potter		$2
